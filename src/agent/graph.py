@@ -20,17 +20,6 @@ retriever_tool = create_retriever_tool(
     "Search and return information of laws in infoleg",
 )
 """
-
-def multiply(a: int, b: int) -> int:
-    """Multiplies a and b.
-
-    Args:
-        a: first int
-        b: second int
-    """
-    return a * b
-
-
 @tool
 def laugh():
     """Generate a laughing onomatopoeia eg: hahahahahahaha"""
