@@ -1,4 +1,4 @@
-Agente mínimo con framework langgraph sin memoria pero con princios de REACT (Reasoning + acting): se sigue un flujo donde el modelo evalua la pertinencia de las herramientas o funciones que conoce y luego de la ejecución o uso de las mismas (si corresponde), evalua la pertinencia de la respuesta.
+Agente mínimo con framework langgraph sin memoria pero con principios de REACT (Reasoning + acting): se sigue un flujo donde el modelo evalua la pertinencia de las herramientas o funciones que conoce y luego de la ejecución o uso de las mismas (si corresponde), evalua la pertinencia de la respuesta.
 
 # Requisitos y setup
 
